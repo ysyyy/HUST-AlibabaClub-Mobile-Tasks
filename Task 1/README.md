@@ -43,4 +43,4 @@
 
 *Pull request的链接https://github.com/GrayXu/HUST-AlibabaClub-Mobile-Tasks/pull/new/master*
 
-国庆的那个小作业还没提交的同学可以直接开始动手学习本次作业了。
+国庆的那个小作业还没提交的同学可以直接开始动手学习本次作业了，还不懂提交文件的话，可以**直接投递到我的邮箱** grayxu@hust.edu.cn 。
